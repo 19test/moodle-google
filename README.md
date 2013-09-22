@@ -23,6 +23,7 @@ repository/googledrive - OAuth based repository plugin for Google Drive - provid
 
 ##   INSTALL
 Install Instructions:
+
 1. Copy the blocks and auth directory to your root moodle directory.
 blocks/gaccess
 blocks/gdata
